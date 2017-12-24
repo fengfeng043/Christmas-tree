@@ -34,7 +34,7 @@ function init() {
     info.style.top = '10px';
     info.style.width = '100%';
     info.style.textAlign = 'center';
-    info.innerHTML = 'This Christmas tree is prepared XWJ, my darling. ';
+    info.innerHTML = 'This Christmas tree is prepared for XWJ, my darling. ';
     container.appendChild(info);
 
     // initialize the scene
